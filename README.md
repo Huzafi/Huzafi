@@ -12,11 +12,25 @@
 
 ---
 
-### 🧠 About Me  
-- 💡 Building **AI Agents**, **Chatbots**, and **Automation Systems** using **OpenAI Agents SDK**, **LangGraph**, and **LangChain**.  
-- 🧩 Exploring **Prompt Engineering** and **context-aware AI workflows**.  
-- ⚙️ Experienced with **FastAPI**, **Python**, and **Streamlit** for backend + UI integration.  
-- 🎯 Currently working on **AI Resume Analyzer** & **Conversational AI Agents**.  
+ 
+
+I’m deeply focused on building **AI-powered ecosystems** — where automation, intelligence, and performance merge into seamless digital experiences.  
+
+### 💡 Focus Areas  
+- Agentic AI & Cognitive Automation  
+- AI System Design & Integration  
+- Building Scalable AI Applications  
+
+### 🧠 Expertise  
+- **OpenAI Frameworks & SDKs** (Agents, LangGraph, Assistant API)  
+- **MCP & Automation AI Pipelines**  
+- **Prompt & Context Engineering** for reliable agent reasoning  
+- **API Integrations** (Google Gemini, Groq, GitHub, etc.)  
+- **Backend & Deployment** using *FastAPI, Streamlit & Vercel*
+- **Frontend & Backend Development** *Chainlit, *Streamlit, *InteractiveUI's,*Nextjs  
+- **AI Resume & Portfolio Tools** powered by smart agents  
+
+✨ Constantly experimenting, refining, and pushing the boundaries of what’s possible with AI.
 
 ---
 
